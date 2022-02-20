@@ -9,6 +9,7 @@ function App() {
   
   useEffect(() => {
     Get(taskOperation);
+    //eslint-disable-next-line
   }, []);
 
   const [tasks, setTasks] = useState([]);
