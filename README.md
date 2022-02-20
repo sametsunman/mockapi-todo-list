@@ -3,6 +3,7 @@ This app is means, an application that shows the list of daily task items. Items
 name and status(completed or not).
 
 Demo: https://asnus-todolist.netlify.app
+JSON Server: https://my-json-server.typicode.com/sametsunman/mockapi-todo-list/tasks
 
 ### User Story
 - As a User, i want to check my to-do list items.

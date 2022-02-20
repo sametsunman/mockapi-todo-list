@@ -2,17 +2,22 @@
   "tasks": [
   {
     "id": 1,
-    "check": true,
-    "taskName": "First Item"
+    "check": false,
+    "name": "Read book for 1 hour"
   },
   {
     "id": 2,
     "check": false,
-    "taskName": "Second Item"
+    "name": "Publish article on blog"
   },
   {
     "id": 3,
     "check": false,
-    "taskName": "Third Item"
+    "name": "Print documents"
+  },
+  {
+    "id": 4,
+    "check": true,
+    "name": "Finish case study"
   }
 ]}
