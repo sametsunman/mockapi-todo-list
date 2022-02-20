@@ -1,4 +1,4 @@
-# Sample To-Do List App Case Study
+# To-Do List App Case Study
 This app is means, an application that shows the list of daily task items. Items should be contain
 name and status(completed or not).
 
