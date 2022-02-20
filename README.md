@@ -2,7 +2,7 @@
 This app is means, an application that shows the list of daily task items. Items should be contain
 name and status(completed or not).
 
-- Demo: https://asnus-todolist.netlify.app
+- Demo: https://mockapi-todolist.netlify.app
 - JSON Server: https://my-json-server.typicode.com/sametsunman/mockapi-todo-list/tasks
 
 ### User Story
