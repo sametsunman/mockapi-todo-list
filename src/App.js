@@ -25,7 +25,7 @@ function App() {
   });
 
   const url =
-    "https://my-json-server.typicode.com/sametsunman/react-todo-list/tasks/";
+    "https://my-json-server.typicode.com/sametsunman/mockapi-todo-list/tasks/";
 
   const getTask = () => {
     fetch(url)
